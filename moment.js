@@ -45,3 +45,4 @@
 firebase.database(trainNames).val()
 console.log(traneNames)
 
+firebase.database("train");
