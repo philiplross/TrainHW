@@ -1,1 +1,2 @@
-var 
+var train
+var schedule
